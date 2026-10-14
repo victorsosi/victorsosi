@@ -1,3 +1,5 @@
+<img width="4000" height="684" alt="capa_victor_english" src="https://github.com/user-attachments/assets/6f820846-9a0e-48e9-b038-1451e674e018" />
+
 ## Hello! 👋
 
 I’m a Creative with a passion for Branding, Technology, and Generative AI. 
